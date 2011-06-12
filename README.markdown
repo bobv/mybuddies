@@ -1,4 +1,9 @@
 == Welcome to Rails
+NOTE: This note is added on 6/12/11.  This is practice on learning how
+to use git, github, and the like. Reference: Ruby on Rails Tutorial: Learn
+by Example (http://railstutorial.org by Michael Hartl)
+
+
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
